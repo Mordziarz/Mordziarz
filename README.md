@@ -38,4 +38,11 @@
 
 ---
 
+### Contact
+
+* 📧 Personal email: **mazdziarzm@gmail.com**
+* 📧 University email: **mateusz.mazdziarz@uwm.edu.pl**
+
+---
+
 <h3 align="center">Feel free to connect with me to talk about bioinformatics, epigenetics, or potential collaborations!</h3>
